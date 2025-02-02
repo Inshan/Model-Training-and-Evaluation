@@ -8,12 +8,12 @@ This project implements supervised machine learning models to predict the surviv
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 -Table of Contents
-A. Project Overview
-B. Dataset
-C. Installation
-D. Usage
-E. Results
-F. Key Findings
+- A. Project Overview
+- B. Dataset
+- C. Installation
+- D. Usage
+- E. Results
+- F. Key Findings
 
 A. Project Overview
  - The goal of this project is to predict whether a passenger survived the Titanic disaster based on features such as age, gender, class, and fare. The project involves:
