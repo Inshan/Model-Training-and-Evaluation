@@ -41,17 +41,15 @@ The dataset used in this project is the Titanic dataset, which contains informat
 The dataset is available at: Titanic Dataset
 
 C. Installation
-- To run this project, you need to have Python installed along with the following libraries:
- - pandas, numpy, scikit-learn, Tensorflow
-You can install the required libraries using pip:
-- pip install pandas numpy scikit-learn tensorflow
+- To run this project, you need to have Python installed along with the following libraries: (pandas, numpy, scikit-learn, Tensorflow)
+- You can install the required libraries using pip: (Command: - pip install pandas numpy scikit-learn tensorflow)
 
 D. Usage
 Clone the repository:
-- git clone https://github.com/your-username/titanic-survival-prediction.git
-- cd titanic-survival-prediction
+- git clone https://github.com/Inshan/Model-Training-and-Evaluation.git
+- cd Model-Training-and-Evaluation
 - Run the Python script in jupyter notebook
-- The script will: load and preprocess the dataset, train and evaluate the three models, and display the performance metrics for each model.
+- The notebook will load and preprocess the dataset, train and evaluate the three models, and display the performance metrics for each model.
 
 E. Results
 The performance metrics for each model are as follows:
