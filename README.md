@@ -38,7 +38,7 @@ The dataset used in this project is the Titanic dataset, which contains informat
 10. Cabin: Cabin number.
 11. Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
-The dataset is available at: Titanic Dataset
+- The dataset is available at: (https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 
 C. Installation
 - To run this project, you need to have Python installed along with the following libraries: (pandas, numpy, scikit-learn, Tensorflow)
