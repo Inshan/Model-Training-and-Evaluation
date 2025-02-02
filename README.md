@@ -56,9 +56,8 @@ Clone the repository:
 E. Results
 The performance metrics for each model are as follows:
 - | Feature               | Model	Accuracy | Precision |	Recall |	F1-Score                                                           
-- |-----------------------|-----------------------------------------------------------------------------
-- | Logistic Regression   |  0.7989	       |  0.7500   |	0.7121 |	0.7305                               |
-- | Random Forest         |  0.8212	       |  0.7778   |	0.7424 |	0.7597                               |
+- | Logistic Regression   |  0.7989	       |  0.7500   |	0.7121 |	0.7305                               
+- | Random Forest         |  0.8212	       |  0.7778   |	0.7424 |	0.7597                               
 - | Neural Network        | 0.8045	        | 0.7632	   | 0.7273 |	0.7449                                
 
 
